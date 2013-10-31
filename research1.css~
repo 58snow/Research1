@@ -1,0 +1,26 @@
+#screen{
+    height:600px;
+    width:800px;
+    border:solid 4px;
+    margin:10px auto;
+    position:relative;
+}
+#recognition{
+
+    border:solid 4px blue;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    /*margin:0px auto;*/
+    /*    
+	  display:table-cell;
+    vertical-align:bottom;
+*/
+}
+input{
+    text-align:center;
+    font-size:30px;
+    width:700px;
+    height:70px;
+}
